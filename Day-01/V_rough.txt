@@ -1,0 +1,21 @@
+
+
+    we already know shell 
+    shell script
+    most of systems that we work on linux
+
+linux
+----------
+ creating
+ website
+ folder             ----> shell commands or scripting
+ free disk
+ memory
+ cpu         
+
+
+ Why python?        
+           1. window     2. complex tasks / interact with   API / DATA MANIPULATIONS
+
+           ansible is written in python     
+
